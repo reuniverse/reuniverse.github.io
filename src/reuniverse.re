@@ -1,19 +1,7 @@
 module Stars = {
   [@react.component]
   let make = () => {
-    <>
-      <div id="stars" />
-      <div id="stars2" />
-      <div id="stars3" />
-      </>;
-  };
-
-};
-
-module Backdrop = {
-  [@react.component]
-  let make = () => {
-    <div className="backdrop" />;
+    <> <div id="stars" /> <div id="stars2" /> <div id="stars3" /> </>;
   };
 };
 
@@ -35,10 +23,5 @@ module Tagline = {
 
 [@react.component]
 let make = () => {
-  <> <Backdrop />
-  <Stars />
-      <div className="centered">
-        <Logo /> <Tagline />
-        </div>
-        </>;
+  <> <Stars /> <div className="centered"> <Logo /> <Tagline /> </div> </>;
 };
