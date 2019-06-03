@@ -31,6 +31,13 @@ html {
   overflow: hidden;
 }
 
+/* Magnificent parallax star script from this codepen:
+ *
+ * https://codepen.io/saransh/pen/BKJun
+ *
+ * Thanks for the work Saransh Sinha! it looks incredible! <3
+ * */
+
 #stars {
   width: 1px;
   height: 1px;
