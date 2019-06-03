@@ -8,7 +8,7 @@ module Stars = {
 module Logo = {
   [@react.component]
   let make = () => {
-    <img className="logo" src="./logo.svg" />;
+    <img className="logo" src="./assets/logo.svg" />;
   };
 };
 
