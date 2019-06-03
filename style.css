@@ -13,12 +13,16 @@
   margin: 0 auto;
 }
 
-.tagline {
+span {
   display: block;
-  margin-top: 2rem;
   color: white;
   font-family: 'Fira Code', monospace;
   font-size: 1.3rem;
+  margin-top: 1rem;
+}
+
+span.tagline {
+  margin-top: 2rem;
 }
 
 html {

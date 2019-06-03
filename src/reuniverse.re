@@ -15,9 +15,14 @@ module Logo = {
 module Tagline = {
   [@react.component]
   let make = () => {
+    <>
     <span className="tagline">
       {React.string("Package documentation for the entire Reason ecosystem.")}
-    </span>;
+    </span>
+    <span>
+      {React.string("Coming soon!")}
+    </span>
+    </>;
   };
 };
 
