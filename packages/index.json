@@ -1,5 +1,5 @@
 {
-  "package_count": 410,
+  "package_count": 411,
   "packages": [
     {
       "name": "@ahrefs/bs-atdgen-codec-runtime",
@@ -1180,6 +1180,98 @@
         }
       ],
       "keywords": [ "bucklescript", "reason", "reasonml", "react" ],
+      "target": [ "Web" ]
+    },
+    {
+      "name": "@ryb73/re-dom",
+      "description": null,
+      "versions": [
+        {
+          "version": "0.0.1",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.1.tgz",
+          "integrity_shasum": "e5987a70f32df9d1b9f2ea055f1dc17b032fb2e3"
+        },
+        {
+          "version": "0.0.2",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.2.tgz",
+          "integrity_shasum": "8ddb3d7390afe7af4c738f9cdf1df886192539d2"
+        },
+        {
+          "version": "0.0.3",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.3.tgz",
+          "integrity_shasum": "1b6f5f265ccf51fc89b330cca4051110970c38ed"
+        },
+        {
+          "version": "0.0.4",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.4.tgz",
+          "integrity_shasum": "8868decf55fe35b02452f42691421636b40204a8"
+        },
+        {
+          "version": "0.0.5",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.5.tgz",
+          "integrity_shasum": "b51513d1595dee3961ff6a47211ac078b4662b73"
+        },
+        {
+          "version": "0.0.6",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.6.tgz",
+          "integrity_shasum": "30abc892e33b8c367b0aa60a4f8a5b446e50ef9a"
+        },
+        {
+          "version": "0.0.7",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.7.tgz",
+          "integrity_shasum": "239634856b6f93042ab44a5631dec71f1ba50b2c"
+        },
+        {
+          "version": "0.0.8",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.8.tgz",
+          "integrity_shasum": "c906e1f305d1eede3801bdb23c24b8d170e3ac5b"
+        },
+        {
+          "version": "0.0.9",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.9.tgz",
+          "integrity_shasum": "88d6bc09c7cbd242a7cbe4a949ba022757559e80"
+        },
+        {
+          "version": "0.0.10",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.10.tgz",
+          "integrity_shasum": "00243e729889a43bb94c76c376ba3e5fe0ce7f62"
+        },
+        {
+          "version": "0.0.11",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.11.tgz",
+          "integrity_shasum": "b3fb58b8a69d041f146d80f317739f562e440905"
+        },
+        {
+          "version": "0.0.12",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.12.tgz",
+          "integrity_shasum": "71fcc880bec2e1c5538c476e0345bdd69e27b49a"
+        },
+        {
+          "version": "0.0.13",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.13.tgz",
+          "integrity_shasum": "0ecb11f271bb472bb8deb544776fb3cd2bbd14de"
+        },
+        {
+          "version": "0.1.0",
+          "download_url":
+            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.1.0.tgz",
+          "integrity_shasum": "eda4d28b1f47930acde683bf0faabd330badab86"
+        }
+      ],
+      "keywords": [ "bucklescript", "reason", "dom" ],
       "target": [ "Web" ]
     },
     {
