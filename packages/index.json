@@ -1,5 +1,5 @@
 {
-  "package_count": 411,
+  "package_count": 410,
   "packages": [
     {
       "name": "@ahrefs/bs-atdgen-codec-runtime",
@@ -117,7 +117,7 @@
         "react", "reason-react", "reason", "reasonml", "bucklescript",
         "drag-and-drop", "dnd"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "@ahrefs/bs-reactstrap",
@@ -346,7 +346,7 @@
         "react-cookie-consent", "bucklescript", "reasonml", "react",
         "cookie", "gdpr", "binding", "component"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "@elliottcable/bs-uchar",
@@ -401,7 +401,7 @@
         }
       ],
       "keywords": [ "AWS", "S3", "AWS-SDK", "ReasonML", "BuckleScript" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "@gmmorris/bs-rewire",
@@ -638,92 +638,6 @@
       ],
       "keywords": [ "Reason", "lsp", "IDE" ],
       "target": [ "Native" ]
-    },
-    {
-      "name": "@lidcore/bs-express",
-      "description": "BuckleScript bindings for express.",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.0.tgz",
-          "integrity_shasum": "3a4f2ba1a07101ebbd57a14115b5f2aef1b3ce5a"
-        },
-        {
-          "version": "1.0.1",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.1.tgz",
-          "integrity_shasum": "27028c403463a16b6ee9a0c8568c0f60e6f0ba80"
-        },
-        {
-          "version": "1.0.2",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.2.tgz",
-          "integrity_shasum": "db0904083bdfd9e787edec8a189ffe685bee08ca"
-        },
-        {
-          "version": "1.0.3",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.3.tgz",
-          "integrity_shasum": "fa1469b35954bb00ae4d92673dfb76a04d29f269"
-        },
-        {
-          "version": "1.0.4",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.4.tgz",
-          "integrity_shasum": "93e7b9f19bdadf0ced96471f5d975960762a0045"
-        },
-        {
-          "version": "1.0.5",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.5.tgz",
-          "integrity_shasum": "a561937d6dc6ed7260f7c805ad4c159f7dc61740"
-        },
-        {
-          "version": "1.0.6",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.6.tgz",
-          "integrity_shasum": "4f864f20704905104ebf231b226a08c84c7b1149"
-        },
-        {
-          "version": "1.0.7",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.7.tgz",
-          "integrity_shasum": "973647857a56f84e807ddbebf13027bd226ff37f"
-        },
-        {
-          "version": "1.0.8",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.0.8.tgz",
-          "integrity_shasum": "2e3637b09c708ae9c1c8357519384950cf051bb0"
-        },
-        {
-          "version": "1.1.0",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.1.0.tgz",
-          "integrity_shasum": "195861154fda8f4e55eae44c4488b92980984750"
-        },
-        {
-          "version": "1.1.1",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.1.1.tgz",
-          "integrity_shasum": "f6121328e571a0e29a7c2b4f0b94f9f2508cb362"
-        },
-        {
-          "version": "1.1.2",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.1.2.tgz",
-          "integrity_shasum": "f5b0127966041fc11eb6685f3d0ecf57bea220f8"
-        },
-        {
-          "version": "1.1.3",
-          "download_url":
-            "https://registry.npmjs.org/@lidcore/bs-express/-/bs-express-1.1.3.tgz",
-          "integrity_shasum": "70fa1238322c1cbc4c48d48aee683158789ad441"
-        }
-      ],
-      "keywords": [ "bucklescript", "express" ],
-      "target": [ "Web" ]
     },
     {
       "name": "@lidcore/bs-node",
@@ -1136,7 +1050,7 @@
         }
       ],
       "keywords": [ "bucklescript", "doc", "docs", "odoc", "odocs" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "@ryb73/bs-react-split-pane",
@@ -1180,98 +1094,6 @@
         }
       ],
       "keywords": [ "bucklescript", "reason", "reasonml", "react" ],
-      "target": [ "Web" ]
-    },
-    {
-      "name": "@ryb73/re-dom",
-      "description": null,
-      "versions": [
-        {
-          "version": "0.0.1",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.1.tgz",
-          "integrity_shasum": "e5987a70f32df9d1b9f2ea055f1dc17b032fb2e3"
-        },
-        {
-          "version": "0.0.2",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.2.tgz",
-          "integrity_shasum": "8ddb3d7390afe7af4c738f9cdf1df886192539d2"
-        },
-        {
-          "version": "0.0.3",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.3.tgz",
-          "integrity_shasum": "1b6f5f265ccf51fc89b330cca4051110970c38ed"
-        },
-        {
-          "version": "0.0.4",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.4.tgz",
-          "integrity_shasum": "8868decf55fe35b02452f42691421636b40204a8"
-        },
-        {
-          "version": "0.0.5",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.5.tgz",
-          "integrity_shasum": "b51513d1595dee3961ff6a47211ac078b4662b73"
-        },
-        {
-          "version": "0.0.6",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.6.tgz",
-          "integrity_shasum": "30abc892e33b8c367b0aa60a4f8a5b446e50ef9a"
-        },
-        {
-          "version": "0.0.7",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.7.tgz",
-          "integrity_shasum": "239634856b6f93042ab44a5631dec71f1ba50b2c"
-        },
-        {
-          "version": "0.0.8",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.8.tgz",
-          "integrity_shasum": "c906e1f305d1eede3801bdb23c24b8d170e3ac5b"
-        },
-        {
-          "version": "0.0.9",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.9.tgz",
-          "integrity_shasum": "88d6bc09c7cbd242a7cbe4a949ba022757559e80"
-        },
-        {
-          "version": "0.0.10",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.10.tgz",
-          "integrity_shasum": "00243e729889a43bb94c76c376ba3e5fe0ce7f62"
-        },
-        {
-          "version": "0.0.11",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.11.tgz",
-          "integrity_shasum": "b3fb58b8a69d041f146d80f317739f562e440905"
-        },
-        {
-          "version": "0.0.12",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.12.tgz",
-          "integrity_shasum": "71fcc880bec2e1c5538c476e0345bdd69e27b49a"
-        },
-        {
-          "version": "0.0.13",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.13.tgz",
-          "integrity_shasum": "0ecb11f271bb472bb8deb544776fb3cd2bbd14de"
-        },
-        {
-          "version": "0.1.0",
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.1.0.tgz",
-          "integrity_shasum": "eda4d28b1f47930acde683bf0faabd330badab86"
-        }
-      ],
-      "keywords": [ "bucklescript", "reason", "dom" ],
       "target": [ "Web" ]
     },
     {
@@ -1435,7 +1257,7 @@
       "keywords": [
         "style guide", "lint", "airbnb", "es6", "es2015", "react", "jsx"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "amd-script",
@@ -1490,7 +1312,7 @@
         }
       ],
       "keywords": [ "reason", "reasonml", "ocaml", "astexplorer", "ast" ],
-      "target": [ "Native" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "attune",
@@ -1721,7 +1543,7 @@
         }
       ],
       "keywords": [ "reasonml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "belt-diff",
@@ -1875,7 +1697,7 @@
         "flow", "async", "ocaml", "functional", "haskell", "waterfall",
         "try", "catch", "promises", "thennable", "bluebird", "q"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "brewery-cli",
@@ -1925,7 +1747,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "brew", "reason" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bryphe-ocaml",
@@ -1945,7 +1767,7 @@
         }
       ],
       "keywords": [ "ocaml", "flow", "opam" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "bs-abstract",
@@ -2652,7 +2474,7 @@
         "axios", "bucklescript", "bsb", "reason", "reasonml", "ocaml",
         "bs-axios", "bs-platform"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-batteries",
@@ -2741,7 +2563,7 @@
         "batteries-included", "bucklescript", "bsb", "reason", "reasonml",
         "ocaml", "bs-batteries", "bs-platform"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-bcrypt",
@@ -3796,7 +3618,7 @@
         }
       ],
       "keywords": [ "bucklescript", "testing" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-downshift",
@@ -4026,7 +3848,7 @@
         "functional", "collection", "state", "store", "reactive", "streams",
         "actions", "effects", "redux", "react"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-effects",
@@ -4127,7 +3949,7 @@
         }
       ],
       "keywords": [ "bucklescript", "reason", "reasonml" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-elm",
@@ -4255,7 +4077,7 @@
         "css", "css-in-js", "react", "emotion", "reason", "reasonml",
         "ocaml", "bucklescript"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-emotion-ppx",
@@ -4388,7 +4210,7 @@
         }
       ],
       "keywords": [ "bucklescript", "enzyme", "testing" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-errors",
@@ -5050,7 +4872,7 @@
         }
       ],
       "keywords": [ "glamor", "bucklescript", "reason", "css" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-glamour",
@@ -5199,7 +5021,7 @@
         }
       ],
       "keywords": [ "GraphQL", "Reason", "Bucklescript", "bs", "ReasonML" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "bs-graphql-scalar",
@@ -5275,6 +5097,12 @@
           "download_url":
             "https://registry.npmjs.org/bs-guid/-/bs-guid-1.0.0.tgz",
           "integrity_shasum": "82ec5c724f8616399ee5e9ac154c12d4295ed23b"
+        },
+        {
+          "version": "1.0.1",
+          "download_url":
+            "https://registry.npmjs.org/bs-guid/-/bs-guid-1.0.1.tgz",
+          "integrity_shasum": "d605a2fa054f7216b3265d20fbaf2af9fbee3d7d"
         }
       ],
       "keywords": [ "uuid", "guid", "rfc4122", "bucklescript", "reason" ],
@@ -5304,6 +5132,27 @@
         }
       ],
       "keywords": [ "i18n", "reason", "reasonml", "ocaml", "bucklescript" ],
+      "target": [ "Web" ]
+    },
+    {
+      "name": "bs-jest-date-mock",
+      "description":
+        "Mock Js.Date when run unit test cases with Jest. Make tests of Js.Date easier.",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "download_url":
+            "https://registry.npmjs.org/bs-jest-date-mock/-/bs-jest-date-mock-1.0.0.tgz",
+          "integrity_shasum": "37d252f62da9e4b215d554f75a9b145149cd39ab"
+        },
+        {
+          "version": "1.0.1",
+          "download_url":
+            "https://registry.npmjs.org/bs-jest-date-mock/-/bs-jest-date-mock-1.0.1.tgz",
+          "integrity_shasum": "7a3579a2b9810e910ef0e739c9e79f09b6c91238"
+        }
+      ],
+      "keywords": [ "BuckleScript", "Date", "Jest" ],
       "target": [ "Web" ]
     },
     {
@@ -5610,7 +5459,7 @@
       "keywords": [
         "bucklescript", "reason", "node", "database", "sql", "knex"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-legacy",
@@ -5627,7 +5476,7 @@
       "keywords": [
         "bucklescript", "bsb", "reason", "reasonml", "ocaml", "bs-platform"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-list",
@@ -6021,7 +5870,7 @@
       "keywords": [
         "bucklescript", "reason", "webpack", "ocaml", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "bs-log",
@@ -6097,7 +5946,7 @@
       "keywords": [
         "log", "logging", "reason", "reasonml", "ocaml", "bucklescript"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-lottie-react-native",
@@ -6121,7 +5970,7 @@
         "lottie", "animation", "reason", "reasonml", "bucklescript",
         "react-native"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-luxon",
@@ -6387,7 +6236,7 @@
         }
       ],
       "keywords": [ "reason", "bucklescript", "moment", "date", "time" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-moment-duration-format",
@@ -7156,7 +7005,7 @@
       "keywords": [
         "nprogress", "reason", "reasonml", "ocaml", "bucklescript"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-office-ui-fabric-react",
@@ -7230,7 +7079,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "ReasonML", "testing", "binding" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-parse-color",
@@ -7437,7 +7286,7 @@
         }
       ],
       "keywords": [ "reason", "reasonml", "bucklescript", "pixl-xml" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-platform",
@@ -8493,7 +8342,7 @@
       "keywords": [
         "bucklescript", "reason", "node", "graphql", "apollo", "scalar"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-puppeteer",
@@ -8706,7 +8555,7 @@
       "keywords": [
         "reasonml", "bucklescript", "react", "hooks", "context", "suspense"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-react-bootstrap",
@@ -8761,7 +8610,7 @@
         }
       ],
       "keywords": [ "reasonml", "binding", "react-dropdown", "bucklescript" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-react-dropzone",
@@ -9209,7 +9058,7 @@
         "reason", "reasonml", "bucklescript", "bindings", "react-native",
         "react-native-navigation"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-react-native-paper",
@@ -9676,27 +9525,7 @@
         "bucklescript", "bsb", "reason", "reasonml", "ocaml", "bs-react-pdf",
         "bs-platform", "react-pdf"
       ],
-      "target": [ "Web" ]
-    },
-    {
-      "name": "bs-react-simple-maps",
-      "description": "Bucklescript bindings for react-simple-maps",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "download_url":
-            "https://registry.npmjs.org/bs-react-simple-maps/-/bs-react-simple-maps-0.0.1.tgz",
-          "integrity_shasum": "2b7f862d68b6081db547a1e261bd1c14876dde4c"
-        },
-        {
-          "version": "1.0.0",
-          "download_url":
-            "https://registry.npmjs.org/bs-react-simple-maps/-/bs-react-simple-maps-1.0.0.tgz",
-          "integrity_shasum": "78c0fb9711ddc13ec3834006e8796f4ca6059943"
-        }
-      ],
-      "keywords": [ "bs-react-simple-maps", "BuckleScript", "Reason" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-react-testing-library",
@@ -9871,7 +9700,7 @@
         }
       ],
       "keywords": [ "ocaml", "bucklescript", "map" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "bs-reason-apollo",
@@ -9909,7 +9738,7 @@
         }
       ],
       "keywords": [ "reason", "bucklescript", "apollo", "graphql", "react" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-reform",
@@ -10315,7 +10144,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "Reasonml" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-remotedata",
@@ -10368,7 +10197,7 @@
         }
       ],
       "keywords": [ "reason", "bucklescript", "react", "css", "css-in-js" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-retable",
@@ -10838,7 +10667,7 @@
         "BuckleScript", "reason", "reasonml", "sql", "databases", "node",
         "sqlite", "sqlite3", "better-sqlite3"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-stdlib",
@@ -10931,7 +10760,7 @@
         }
       ],
       "keywords": [ "ocaml", "bucklescript", "map" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "bs-string-map",
@@ -11319,7 +11148,7 @@
       "keywords": [
         "reasonml", "bucklescript", "web3", "ethereum", "nodejs"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-webapi",
@@ -11549,7 +11378,7 @@
         "reason", "bucklescript", "web", "webrtc", "webcrypto", "crypto",
         "websocket", "indexeddb"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "bs-websocket",
@@ -11935,7 +11764,7 @@
         }
       ],
       "keywords": [ "bsb", "bucklescript", "reason", "reasonml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "bsb-native",
@@ -12388,7 +12217,7 @@
       "keywords": [
         "style guide", "lint", "cargurus", "es6", "es2015", "react", "jsx"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "chromafi",
@@ -12643,7 +12472,7 @@
         "verilog", "vhdl", "vim", "x86asm", "xl", "xml", "xquery", "yaml",
         "zephir"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "clj-collection-apis-reasonml",
@@ -12879,7 +12708,7 @@
         }
       ],
       "keywords": [ "esy", "ocaml", "reason", "starter", "template" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "create-graze-app",
@@ -13197,7 +13026,7 @@
         "razzle", "react", "webpack", "preact", "ssr", "universal",
         "isomorphic", "inferno", "reason", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "create-reason",
@@ -13211,7 +13040,7 @@
         }
       ],
       "keywords": [ "reasonml", "ocaml", "esy" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "create-reason-node-project",
@@ -13247,7 +13076,7 @@
         }
       ],
       "keywords": [ "reason", "reasonml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "create-reprocessing-app",
@@ -13705,7 +13534,7 @@
       "keywords": [
         "ocaml", "bucklescript", "stdlib", "functional programming"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "flex",
@@ -13826,7 +13655,7 @@
       "keywords": [
         "css", "flex", "flexbox", "layout", "reason", "reasonml", "ocaml"
       ],
-      "target": [ "Native" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "fp455",
@@ -13972,7 +13801,7 @@
         }
       ],
       "keywords": [ "gatsby", "gatsby-link", "reason", "reasonml" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "gatsby-plugin-reason",
@@ -14358,7 +14187,7 @@
       "keywords": [
         "graphql", "reason", "generator", "bucklescript", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "graphqlx",
@@ -14432,7 +14261,7 @@
         }
       ],
       "keywords": [ "OCaml", "BuckleScript", "GraphQL", "JavaScript" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "grunt-bucklescript",
@@ -14689,7 +14518,7 @@
         }
       ],
       "keywords": [ "eye", "reasoner", "n3", "agent", "blackboards" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "hotsite-farm",
@@ -15169,7 +14998,7 @@
         "python", "request", "requests", "ruby", "shell", "snippet", "swift",
         "swift", "unirest", "xhr", "xmlhttprequest"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "hulken",
@@ -15801,7 +15630,7 @@
         "reasoning", "owl", "incremental", "semantic web",
         "incremental reasoning", "rdf", "owl reasoner"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "hypatia",
@@ -16161,7 +15990,7 @@
         }
       ],
       "keywords": [ "ocaml", "js_of_ocaml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "jwt-authorizer",
@@ -16187,7 +16016,7 @@
         }
       ],
       "keywords": [ "BuckleScript" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "klipse",
@@ -16471,7 +16300,7 @@
         }
       ],
       "keywords": [ "Reason", "Async" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "markdown-to-rex",
@@ -17188,7 +17017,7 @@
         }
       ],
       "keywords": [ "random", "password" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "pesy",
@@ -17337,7 +17166,7 @@
         }
       ],
       "keywords": [ "esy", "ocaml", "reason", "reasonml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "pinata-sdk",
@@ -17663,7 +17492,7 @@
       "keywords": [
         "reason", "reasonml", "bucklescript", "ocaml", "bsx", "jsx"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "prettier-plugin-reasonml",
@@ -17692,7 +17521,7 @@
         }
       ],
       "keywords": [ "promise", "status", "value", "internal", "export" ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "purposefile",
@@ -17737,7 +17566,7 @@
         }
       ],
       "keywords": [ "purpose", "file", "reason", "lint", "config" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "raisin",
@@ -17752,7 +17581,7 @@
         }
       ],
       "keywords": [ "reason", "reasonml", "ocaml", "build" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "rationale",
@@ -18361,7 +18190,7 @@
         "razzle", "react", "webpack", "preact", "ssr", "universal",
         "isomorphic", "inferno", "reason", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "razzle-babel-7",
@@ -18450,7 +18279,7 @@
         "razzle", "react", "webpack", "preact", "ssr", "universal",
         "isomorphic", "inferno", "reason", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "razzle-rn",
@@ -18674,7 +18503,7 @@
         "react", "reason", "reason-react", "reasonml", "ocaml",
         "bucklescript", "ui", "dnd", "drag-n-drop"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "re-elm-app",
@@ -19371,7 +19200,7 @@
         "reason", "ocaml", "react", "javascript",
         "won't you look at all these nice types"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "reason-apollo",
@@ -20392,7 +20221,7 @@
         }
       ],
       "keywords": [ "reasonml", "bucklescript", "elm" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reason-expo",
@@ -20665,7 +20494,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "react-flip-page", "react", "reason" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reason-form",
@@ -21462,7 +21291,7 @@
         "BuckleScript", "ReasonReact", "ReasonML", "components", "dumb",
         "state", "RenderProps"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reason-pure-component",
@@ -21720,7 +21549,7 @@
         }
       ],
       "keywords": [ "reason-react" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reason-react-context",
@@ -21832,6 +21661,36 @@
       "keywords": [
         "reason", "reasonml", "bucklescript", "react-native",
         "react-native-maps"
+      ],
+      "target": [ "Web" ]
+    },
+    {
+      "name": "reason-react-native-netinfo",
+      "description":
+        "These are BuckleScript bindings to [`React Native NetInfo`](https://github.com/react-native-community/react-native-netinfo), in Reason syntax. `NetInfo` has been removed in RN 0.60, but as that release has breaking changes, this package is intended to wor",
+      "versions": [
+        {
+          "version": "3.2.0",
+          "download_url":
+            "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.0.tgz",
+          "integrity_shasum": "7565180ff196aeea9ebf4f476a17ca39e790c3c6"
+        },
+        {
+          "version": "3.2.1",
+          "download_url":
+            "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.1.tgz",
+          "integrity_shasum": "2ea3846da45dd978abe627a3df4d1cfdd60f2cbc"
+        },
+        {
+          "version": "3.2.2",
+          "download_url":
+            "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.2.tgz",
+          "integrity_shasum": "91f3e3f416998580efc061955591a985657c34fc"
+        }
+      ],
+      "keywords": [
+        "reason", "reasonml", "bucklescript", "react-native",
+        "react-native-netinfo"
       ],
       "target": [ "Web" ]
     },
@@ -22088,7 +21947,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "ReasonReact", "Transition" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reason-tttoe",
@@ -22124,7 +21983,7 @@
       "keywords": [
         "webpack", "get-typed", "reason", "reasonml", "bucklescript"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "reason-urql",
@@ -22367,7 +22226,7 @@
         }
       ],
       "keywords": [ "react", "router", "routing", "route", "routes" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "reasonably-typed",
@@ -22561,7 +22420,7 @@
         }
       ],
       "keywords": [ "Reason", "OCaml", "Bucklescript", "Flow" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reasonml",
@@ -22823,7 +22682,7 @@
       "keywords": [
         "reason", "reasonml", "ocaml", "redux", "state management"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reductive-dev-tools",
@@ -23058,12 +22917,18 @@
           "download_url":
             "https://registry.npmjs.org/relude/-/relude-0.17.0.tgz",
           "integrity_shasum": "9a89083981ef07701bccb3d2b65cf5cd121bf36d"
+        },
+        {
+          "version": "0.18.0",
+          "download_url":
+            "https://registry.npmjs.org/relude/-/relude-0.18.0.tgz",
+          "integrity_shasum": "bb950c48fb8b448f48415ac0e9928f665ed61f4b"
         }
       ],
       "keywords": [
         "ReasonML", "BuckleScript", "Utility", "Prelude", "Standard Library"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "reprocessing",
@@ -23171,7 +23036,7 @@
         }
       ],
       "keywords": [ "BuckleScript", "json", "reason" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "rn-razzle",
@@ -23189,7 +23054,7 @@
         "razzle", "react", "webpack", "preact", "ssr", "universal",
         "isomorphic", "inferno", "reason", "reasonml"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "rof",
@@ -23285,7 +23150,7 @@
         }
       ],
       "keywords": [ "scon", "file", "format" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "serverless-reasonml",
@@ -23979,7 +23844,7 @@
         }
       ],
       "keywords": [ "BuckleScript" ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "tails-ui",
@@ -24176,7 +24041,7 @@
         "react", "reasonml", "tails-ui", "library", "components",
         "tailwindcss"
       ],
-      "target": [ "Web" ]
+      "target": [ "Universal" ]
     },
     {
       "name": "tasks-ml",
@@ -24429,7 +24294,7 @@
         }
       ],
       "keywords": [],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "tree-sitter-dune",
@@ -24481,7 +24346,7 @@
         }
       ],
       "keywords": [ "parser", "ocaml", "menhir" ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "tree-sitter-ocaml",
@@ -24543,7 +24408,7 @@
         }
       ],
       "keywords": [ "parser", "ocaml" ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "tree-sitter-ocamllex",
@@ -24660,7 +24525,7 @@
         "TypeScript", "Pattern Match", "Pattern Matching", "switch", "Elm",
         "Haskell", "ReasonML"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Web" ]
     },
     {
       "name": "validity_checks",
@@ -24798,7 +24663,7 @@
         "webpack", "plugin", "translations", "messages", "i18n",
         "transferwise", "0cjs"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     },
     {
       "name": "wmathconcepts",
@@ -27496,7 +27361,7 @@
       "keywords": [
         "style guide", "lint", "ys7", "es6", "es2015", "react", "jsx"
       ],
-      "target": [ "Unknown" ]
+      "target": [ "Native" ]
     }
   ]
 }
