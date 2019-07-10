@@ -21909,6 +21909,18 @@
           "download_url":
             "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.2.tgz",
           "integrity_shasum": "91f3e3f416998580efc061955591a985657c34fc"
+        },
+        {
+          "version": "3.2.3",
+          "download_url":
+            "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.3.tgz",
+          "integrity_shasum": "dd842b7d482d3b6a6591af78223c8ea437c7cdde"
+        },
+        {
+          "version": "3.2.4",
+          "download_url":
+            "https://registry.npmjs.org/reason-react-native-netinfo/-/reason-react-native-netinfo-3.2.4.tgz",
+          "integrity_shasum": "63b772cd56a2a341a2b4fc342248ee578b905a13"
         }
       ],
       "keywords": [
