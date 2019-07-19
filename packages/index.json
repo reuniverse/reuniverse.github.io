@@ -1,5 +1,5 @@
 {
-  "package_count": 326,
+  "package_count": 323,
   "packages": [
     {
       "name": "@aantron/repromise",
@@ -1459,150 +1459,6 @@
       "target": [ "Web" ]
     },
     {
-      "name": "@mobily/tifi",
-      "description":
-        "🤓 Tifi solves a problem of the existence of both `undefined` and `null`. It's inspired by the OCaml/Reason utilities for the option data type.",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "d7a5ea71226b5c7db1b6132eca0c7136166bb36d"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.1.tgz",
-          "integrity_shasum": "3e46b4eacdc7df564d894f8fb5cab9334b96e57b"
-        },
-        {
-          "version": "0.0.2",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.2.tgz",
-          "integrity_shasum": "03e64ad0b68f41b83955996b28d165838af032ff"
-        },
-        {
-          "version": "0.0.3",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.3.tgz",
-          "integrity_shasum": "b6302c2ae58f35be85cf7bfe3968b5bbab518f6a"
-        },
-        {
-          "version": "0.0.4",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.4.tgz",
-          "integrity_shasum": "1353a9dbdf8d8ce04c4900acbdaf1f7738b4cc49"
-        },
-        {
-          "version": "0.0.5",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.5.tgz",
-          "integrity_shasum": "acffb971d5c729c5e16139b0984559d9ef5649ff"
-        },
-        {
-          "version": "0.0.6",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.0.6.tgz",
-          "integrity_shasum": "59fd4dd48c3482cc880d1b3873bed35d17696917"
-        },
-        {
-          "version": "0.1.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.1.1.tgz",
-          "integrity_shasum": "17b922bc5aa89c9c86105df8dc7efcec6a8328aa"
-        },
-        {
-          "version": "0.2.0",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.2.0.tgz",
-          "integrity_shasum": "9561a9aaeec9f94f43b85ef88915161050b1d418"
-        },
-        {
-          "version": "0.2.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.2.1.tgz",
-          "integrity_shasum": "f248fc207d29038aadb7115b131bd167e6342dd2"
-        },
-        {
-          "version": "0.4.0",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.4.0.tgz",
-          "integrity_shasum": "ab80deec9ce7199422b0473a2fa90807976e04be"
-        },
-        {
-          "version": "0.4.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "tifi",
-            "url": "git+https://github.com/mobily/tifi.git",
-            "ref": "HEAD"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@mobily/tifi/-/tifi-0.4.1.tgz",
-          "integrity_shasum": "bf63584370ee96abfedfc275dab90293a3f35a94"
-        }
-      ],
-      "keywords": [
-        "typescript", "functional-programming", "monad", "option",
-        "option-type", "list", "result", "result-type"
-      ],
-      "target": [ "Unknown" ]
-    },
-    {
       "name": "@mscharley/bs-material-ui-icons",
       "description": "Reason bindings for material-ui-icons",
       "versions": [
@@ -2041,312 +1897,6 @@
         }
       ],
       "keywords": [ "bucklescript", "reason", "reasonml", "react" ],
-      "target": [ "Web" ]
-    },
-    {
-      "name": "@ryb73/bs-react-virtualized",
-      "description": "Bucklescript bindings for react-virtualized",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "8dcb13f3ce6394e5fb1f8f746f59a24b7e29a053"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.1.tgz",
-          "integrity_shasum": "ab4b55ccd77c571e33ee0526c222337cf2410e70"
-        },
-        {
-          "version": "0.0.2",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "f69cfe32e4f37c4f0f347b30af1878da16372c3d"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.2.tgz",
-          "integrity_shasum": "35e7d2b9f7c55fa12110c490f0d4761011309253"
-        },
-        {
-          "version": "0.0.3",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "62f37e1c7e2cf566ddcc01f89db70cb83c48d8b8"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.3.tgz",
-          "integrity_shasum": "3a41a425ce73469b9c94faebb3c37773ebadcd75"
-        },
-        {
-          "version": "0.0.4",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "243212d0c53d564a2481d12dc55f60d20c497b6d"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.4.tgz",
-          "integrity_shasum": "7b4d3acdc0319591efc7724c2d8bb530020a284c"
-        },
-        {
-          "version": "0.0.5",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "36fd082a35e386b5723164e7876d5d38187f9636"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.5.tgz",
-          "integrity_shasum": "a71eb08335a74135eae6f390d43eb3810f136ff9"
-        },
-        {
-          "version": "0.0.6",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "ba3de726ea5a0338235ba4f876af3aa471fb240f"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.6.tgz",
-          "integrity_shasum": "5e0dd1a40a8e035a8c9d17f576643a45b772a420"
-        },
-        {
-          "version": "0.0.7",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "34d03e6dc0bcc45dfc2bb9711c798695bd67fe1e"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.7.tgz",
-          "integrity_shasum": "c9c11ac1242fc39d187dccbd13e89b6f7f6601f3"
-        },
-        {
-          "version": "0.0.8",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "596daf3f89597ba67c89756072375e51844e7a3a"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.8.tgz",
-          "integrity_shasum": "4783443cfbe14ea9d84c5145078c75a1c88b02a8"
-        },
-        {
-          "version": "0.0.9",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "0befb4659462f80be4db94e12b303ccf12d5f106"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.0.9.tgz",
-          "integrity_shasum": "da0c520101916d45b7e7b76ec443895f021daa23"
-        },
-        {
-          "version": "0.1.0",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "bs-react-virtualized",
-            "url": "git+ssh://git@github.com/ryb73/bs-react-virtualized.git",
-            "ref": "a6089273925b8fe4d248da962d539fc8562e6653"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/bs-react-virtualized/-/bs-react-virtualized-0.1.0.tgz",
-          "integrity_shasum": "c5c9b8b3ba122241f068fe90f51f88f14c80e27a"
-        }
-      ],
-      "keywords": [
-        "bucklescript", "reason", "reasonml", "list", "grid", "react"
-      ],
-      "target": [ "Web" ]
-    },
-    {
-      "name": "@ryb73/re-dom",
-      "description": null,
-      "versions": [
-        {
-          "version": "0.0.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "fc0e2902a23311dd546d8e65c9ce59e6785e3e55"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.1.tgz",
-          "integrity_shasum": "e5987a70f32df9d1b9f2ea055f1dc17b032fb2e3"
-        },
-        {
-          "version": "0.0.2",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "14790ff5fa0af6aa86f2a31a29213ab76a017a65"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.2.tgz",
-          "integrity_shasum": "8ddb3d7390afe7af4c738f9cdf1df886192539d2"
-        },
-        {
-          "version": "0.0.3",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "3aea64475f1152aacfc0c492409eafb6f5060e5d"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.3.tgz",
-          "integrity_shasum": "1b6f5f265ccf51fc89b330cca4051110970c38ed"
-        },
-        {
-          "version": "0.0.4",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "9bec7e3b3dcba0cd321989b60b87dae576024fe2"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.4.tgz",
-          "integrity_shasum": "8868decf55fe35b02452f42691421636b40204a8"
-        },
-        {
-          "version": "0.0.5",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "fc000ae03c22f72a75e01950c56d78762019aa24"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.5.tgz",
-          "integrity_shasum": "b51513d1595dee3961ff6a47211ac078b4662b73"
-        },
-        {
-          "version": "0.0.6",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "215807e6a515adb046f8aad8209decb7bc8a5bbc"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.6.tgz",
-          "integrity_shasum": "30abc892e33b8c367b0aa60a4f8a5b446e50ef9a"
-        },
-        {
-          "version": "0.0.7",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "e973cebdeaa9015d986cbf99f243c095ea84f9c4"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.7.tgz",
-          "integrity_shasum": "239634856b6f93042ab44a5631dec71f1ba50b2c"
-        },
-        {
-          "version": "0.0.8",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "26104e9394b9e1dbf0c45a3e6d557666d80f8f76"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.8.tgz",
-          "integrity_shasum": "c906e1f305d1eede3801bdb23c24b8d170e3ac5b"
-        },
-        {
-          "version": "0.0.9",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "d0dd9029c5b05b3fdbe92f7529393e71ad1bb204"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.9.tgz",
-          "integrity_shasum": "88d6bc09c7cbd242a7cbe4a949ba022757559e80"
-        },
-        {
-          "version": "0.0.10",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "fb628a0af0ced06273f24ef7b8a4869d8b250143"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.10.tgz",
-          "integrity_shasum": "00243e729889a43bb94c76c376ba3e5fe0ce7f62"
-        },
-        {
-          "version": "0.0.11",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "a46932f6ba37084d2dd018097735db01ade626c5"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.11.tgz",
-          "integrity_shasum": "b3fb58b8a69d041f146d80f317739f562e440905"
-        },
-        {
-          "version": "0.0.12",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "06c84fe0626825a444ee71f547427245bfce9fab"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.12.tgz",
-          "integrity_shasum": "71fcc880bec2e1c5538c476e0345bdd69e27b49a"
-        },
-        {
-          "version": "0.0.13",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "04b6845ed9f73926d7ac8327f3c982b8e2de4db2"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.0.13.tgz",
-          "integrity_shasum": "0ecb11f271bb472bb8deb544776fb3cd2bbd14de"
-        },
-        {
-          "version": "0.1.0",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "redom",
-            "url": "git+ssh://git@github.com/ryb73/redom.git",
-            "ref": "8fc67eace3eb55d58d22e584c05f8059eb92cc84"
-          },
-          "download_url":
-            "https://registry.npmjs.org/@ryb73/re-dom/-/re-dom-0.1.0.tgz",
-          "integrity_shasum": "eda4d28b1f47930acde683bf0faabd330badab86"
-        }
-      ],
-      "keywords": [ "bucklescript", "reason", "dom" ],
       "target": [ "Web" ]
     },
     {
@@ -14042,6 +13592,18 @@
           "download_url":
             "https://registry.npmjs.org/bs-react-dropzone/-/bs-react-dropzone-0.3.3.tgz",
           "integrity_shasum": "4eab598e4bb057432fd15b34ed1abf2409a7f6ce"
+        },
+        {
+          "version": "0.4.0",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "bs-react-dropzone",
+            "url": "git+https://github.com/erykpiast/bs-react-dropzone.git",
+            "ref": "28151620a5ad0dd5fd093eaa9272621e84a47366"
+          },
+          "download_url":
+            "https://registry.npmjs.org/bs-react-dropzone/-/bs-react-dropzone-0.4.0.tgz",
+          "integrity_shasum": "9c98247bc2d8f25069eeb87e0b8ae066144c55c9"
         }
       ],
       "keywords": [
@@ -25202,82 +24764,6 @@
       "target": [ "Unknown" ]
     },
     {
-      "name": "node-red-contrib-context-reasoner",
-      "description":
-        "nodes used to evaluate device context given an expression",
-      "versions": [
-        {
-          "version": "0.0.1",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "node-red-contrib-context-reasoner",
-            "url":
-              "git+https://github.com/namgk/node-red-contrib-context-reasoner.git",
-            "ref": "e963b294d530e8ea5a7d23479180b80536f39bcd"
-          },
-          "download_url":
-            "https://registry.npmjs.org/node-red-contrib-context-reasoner/-/node-red-contrib-context-reasoner-0.0.1.tgz",
-          "integrity_shasum": "ec604d6e812580e742284c95f251b23d0ad607eb"
-        },
-        {
-          "version": "0.0.2",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "node-red-contrib-context-reasoner",
-            "url":
-              "git+https://github.com/namgk/node-red-contrib-context-reasoner.git",
-            "ref": "87f66cf6ea439029619fdeabc2027892a1b7e0ac"
-          },
-          "download_url":
-            "https://registry.npmjs.org/node-red-contrib-context-reasoner/-/node-red-contrib-context-reasoner-0.0.2.tgz",
-          "integrity_shasum": "eefa8702897817dac862d826e53ce2cad97608b7"
-        },
-        {
-          "version": "0.0.3",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "node-red-contrib-context-reasoner",
-            "url":
-              "git+https://github.com/namgk/node-red-contrib-context-reasoner.git",
-            "ref": "87f66cf6ea439029619fdeabc2027892a1b7e0ac"
-          },
-          "download_url":
-            "https://registry.npmjs.org/node-red-contrib-context-reasoner/-/node-red-contrib-context-reasoner-0.0.3.tgz",
-          "integrity_shasum": "c88f9458154750544e552cf3fe22223a63c0d5da"
-        },
-        {
-          "version": "0.1.3",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "node-red-contrib-context-reasoner",
-            "url":
-              "git+https://github.com/namgk/node-red-contrib-context-reasoner.git",
-            "ref": "dcf2752771128ce924630e897dc6413691c3edeb"
-          },
-          "download_url":
-            "https://registry.npmjs.org/node-red-contrib-context-reasoner/-/node-red-contrib-context-reasoner-0.1.3.tgz",
-          "integrity_shasum": "9350293c57b1e2cc6ad972ff0fda577ee31f672f"
-        },
-        {
-          "version": "0.1.4",
-          "repository": {
-            "kind": [ "GitHub" ],
-            "name": "node-red-contrib-context-reasoner",
-            "url":
-              "git+https://github.com/namgk/node-red-contrib-context-reasoner.git",
-            "ref": "dcf2752771128ce924630e897dc6413691c3edeb"
-          },
-          "download_url":
-            "https://registry.npmjs.org/node-red-contrib-context-reasoner/-/node-red-contrib-context-reasoner-0.1.4.tgz",
-          "integrity_shasum": "f0fad8fea4e91ee35d49eb9bffb2265d37bf2c5d"
-        }
-      ],
-      "keywords": [
-        "distributed", "context", "reasoning", "node", "node-red"
-      ],
-      "target": [ "Unknown" ]
-    },
-    {
       "name": "ocaml-diff",
       "description": "Symmetric Diffs for OCaml stdlib and ReasonML",
       "versions": [
@@ -33711,6 +33197,19 @@
           "download_url":
             "https://registry.npmjs.org/webpack-stats-explorer/-/webpack-stats-explorer-1.6.0.tgz",
           "integrity_shasum": "68600d43530fbeb92bbd4f203c2dacf6716841d7"
+        },
+        {
+          "version": "1.6.1",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "webpack-stats-explorer",
+            "url":
+              "git+ssh://git@github.com/erykpiast/webpack-stats-explorer.git",
+            "ref": "85e8a567bcd8b661a2a78741aaede4d46ef085ba"
+          },
+          "download_url":
+            "https://registry.npmjs.org/webpack-stats-explorer/-/webpack-stats-explorer-1.6.1.tgz",
+          "integrity_shasum": "fc8a2c1b1f5c12060ee06b1e5284eceb1873d97d"
         }
       ],
       "keywords": [ "BuckleScript" ],
@@ -33777,6 +33276,1877 @@
       "keywords": [
         "webpack", "plugin", "translations", "messages", "i18n",
         "transferwise", "0cjs"
+      ],
+      "target": [ "Unknown" ]
+    },
+    {
+      "name": "wmathconcepts",
+      "description":
+        "Collection of functions to operate such geometrical concepts as Sphere, Box, Plane, Frustum, Ray, Axis and Angle, Euler's Angles, Quaternion and other. Why MathConcepts? Three reasons. All functions of the module are purely functional. MathConcepts heavil",
+      "versions": [
+        {
+          "version": "0.3.1",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e286454e24a66d25ea5a4821b9b542fabb5339d2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.1.tgz",
+          "integrity_shasum": "ee7de870fa909a1e7b470e0826587698ba43f921"
+        },
+        {
+          "version": "0.3.2",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "58b09e3cda2b4da2dcf28e1e1e62e71dff8a7bdb"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.2.tgz",
+          "integrity_shasum": "9fe5a0cdea4e890beadc8d046b3a252122f88bad"
+        },
+        {
+          "version": "0.3.3",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "06f670433252d8b287112aa98f99fd5507acc77b"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.3.tgz",
+          "integrity_shasum": "0585aa99c2b478d300fef022bcdcf88a72354881"
+        },
+        {
+          "version": "0.3.4",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "2e1e9b6b16e65a798c2cd9cad5456955ccfcbad3"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.4.tgz",
+          "integrity_shasum": "8bbf33a5b794b546723fe2963e20d46b0cf48ee0"
+        },
+        {
+          "version": "0.3.5",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8f95783052ce37143970b34c610194572de35232"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.5.tgz",
+          "integrity_shasum": "98ee795634afddcdd62d6da085ad5ba2f4ccba03"
+        },
+        {
+          "version": "0.3.6",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3811366defd5d16d630496cabef5ade5ac90247e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.6.tgz",
+          "integrity_shasum": "a5a35077ef38731eb41153c61036ed403e193b0d"
+        },
+        {
+          "version": "0.3.7",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "96ab249c4c3ee74e19dbb98933c5d1c9383d26c4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.7.tgz",
+          "integrity_shasum": "6eb1b388079bfc9ac544c39be4a75fd573de405d"
+        },
+        {
+          "version": "0.3.8",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "cc72c5339cc5e950ae3e3b50b930de9da97db7f2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.8.tgz",
+          "integrity_shasum": "40991021412e547b1d3400a315eb6ecf6f57db14"
+        },
+        {
+          "version": "0.3.9",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "55972660e7c328b4c04ec4a40d485738ef105856"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.9.tgz",
+          "integrity_shasum": "0b4baad10f20aea9bacb3fb5f141d6406e68f6c0"
+        },
+        {
+          "version": "0.3.10",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f12847b9d151ba95a4f5a1ad2fa3e9e8c22276b6"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.10.tgz",
+          "integrity_shasum": "dd9b9bf2319862ec1564a86df48b703c1bb5cf20"
+        },
+        {
+          "version": "0.3.11",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "afc96f75643f6a81b7de4837ea7ce6de5bf6654e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.11.tgz",
+          "integrity_shasum": "99b3bc8b969c52cfe82f0820ab118c5d79544031"
+        },
+        {
+          "version": "0.3.12",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4c38cb88ba4548c0b033bab730bace4fe650e28e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.12.tgz",
+          "integrity_shasum": "bf833b631604a784b3ef991f0a8cb59e64c0a31c"
+        },
+        {
+          "version": "0.3.13",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "fad0c5de9dfdeb8852c578e53b6dc3462edcd5df"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.13.tgz",
+          "integrity_shasum": "0bb35e185647569e884e23806e54f0a7de8acdc7"
+        },
+        {
+          "version": "0.3.14",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "7d453c6b8ac1108c9b450e14c58ef9d08ae46673"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.14.tgz",
+          "integrity_shasum": "2fe64d20f55506553d8e27e3eca4ef93af93e482"
+        },
+        {
+          "version": "0.3.15",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "54e80f5e2728994bf4555c24d4b34704e41e6ca7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.15.tgz",
+          "integrity_shasum": "436100fb42e844c5771b288e8ed8615b01b9de33"
+        },
+        {
+          "version": "0.3.16",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "eda53506e67a12aef35e5f2a952c224a1e8989e0"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.16.tgz",
+          "integrity_shasum": "e74d64d1a05628a1b95b11c9f0449d7883c53219"
+        },
+        {
+          "version": "0.3.17",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d7d14dd279383a139e3f8a18ae345c53b7980433"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.17.tgz",
+          "integrity_shasum": "60f83a36b47db6cc7660228d7abad9fec912f8ad"
+        },
+        {
+          "version": "0.3.18",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "914bdfc3bc0c2b2caffa5f3bf912773097a1c5a3"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.18.tgz",
+          "integrity_shasum": "8598061df1ae19047649de098482d818a5ce7491"
+        },
+        {
+          "version": "0.3.19",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e2e52a8e8b760207b6fe8b683f03146f4950375a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.19.tgz",
+          "integrity_shasum": "03b2e06c826af97e787b06cd0c4e9b534fcbb7c3"
+        },
+        {
+          "version": "0.3.20",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f9720a617b5584492a7c0270066cfdf8430f12d3"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.20.tgz",
+          "integrity_shasum": "e93f80962739a2438846dbfc9e735f6d38040a75"
+        },
+        {
+          "version": "0.3.21",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "0ddf881cc4de06a0b28b581df99d617389e8c460"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.21.tgz",
+          "integrity_shasum": "aa3de01b06ee874972e214c68d08147c02f95bf9"
+        },
+        {
+          "version": "0.3.22",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d851a53d52b1cacaedc140de6e5ae617c3a4c26c"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.22.tgz",
+          "integrity_shasum": "7da98333b6416f6e8d4f78ecb599aa15befeb3c8"
+        },
+        {
+          "version": "0.3.23",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e795ad90a3cabb1326103ce6869d990b9b66ec8a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.23.tgz",
+          "integrity_shasum": "ca20d70b86d9028959178cbe219f5e03516674cd"
+        },
+        {
+          "version": "0.3.24",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6b1b8fa98ceaf17f9c2431376ad32213ea688f7a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.24.tgz",
+          "integrity_shasum": "731880098c5b5a9d718bab58de35dfefa1e57abd"
+        },
+        {
+          "version": "0.3.25",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8d1342bbf81d8c259a00e46daacc227a7b3f24f8"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.25.tgz",
+          "integrity_shasum": "672fe54e4a4febc55dec73ecf2236b3da695edb4"
+        },
+        {
+          "version": "0.3.26",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f00f3275f12aba0fc3228f567bac2840c89542d5"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.26.tgz",
+          "integrity_shasum": "fe1bdb54fae623fc74e6e3d54e5ad1c67c94fdba"
+        },
+        {
+          "version": "0.3.27",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "657be77d4392dc4040d6e75cbf7c7ddb8d52e96c"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.27.tgz",
+          "integrity_shasum": "b5a63259cee726ca3c45135063526e1d85527b92"
+        },
+        {
+          "version": "0.3.28",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "53abd6f9308398ce8cad4c031bb2774bd0643d7e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.28.tgz",
+          "integrity_shasum": "33ec871839ad5d7ff52c1e3c896146b3c2a0d9a3"
+        },
+        {
+          "version": "0.3.29",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6c466265c06ad10f937eb6715b72a847c9ad07e5"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.29.tgz",
+          "integrity_shasum": "b04c305e6a979e35e56e3fcf6c91a6cdac83d6f8"
+        },
+        {
+          "version": "0.3.30",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d58354dfc27e2d4e68e02cf3fd2dd3523c9739b4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.30.tgz",
+          "integrity_shasum": "520fdf0a173029ec91b8c1d5cf5390e8600f5b6f"
+        },
+        {
+          "version": "0.3.31",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6945d232203afe13bd8ba448a149d3bd659053ee"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.31.tgz",
+          "integrity_shasum": "9e14108d7f69db6ad74b9beaddbae8ca29299a32"
+        },
+        {
+          "version": "0.3.32",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d60141bfdd5247266ba7fa5b558a7c375d8970e5"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.32.tgz",
+          "integrity_shasum": "b29b02a36fb2d5082ff7cedcdd5262bcf81691b4"
+        },
+        {
+          "version": "0.3.33",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e7b32e249126c3517f3e881b4e94e21b5909f874"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.33.tgz",
+          "integrity_shasum": "2383f32c64c812f7a15d8b4224298c8e335b655a"
+        },
+        {
+          "version": "0.3.34",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "df167bd939a02ec7357c8ad127dc2805749d9401"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.34.tgz",
+          "integrity_shasum": "541c2d171fbd4b208707a103b9b0544f1ea0c289"
+        },
+        {
+          "version": "0.3.35",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "5f85113f58466a1e3b8e99e7b74389b9a49e7227"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.35.tgz",
+          "integrity_shasum": "62e2863401ea6027d1b22925f7e605e6de069166"
+        },
+        {
+          "version": "0.3.36",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "64f057c0e268f5b80640989dfc3f2b3f2c8eb822"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.36.tgz",
+          "integrity_shasum": "3fb171dabf0613c910f6d6d22cde3335d8814b43"
+        },
+        {
+          "version": "0.3.37",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "1d0f7aa15608ed35d43fa1e675b92ecac302820a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.37.tgz",
+          "integrity_shasum": "2300b2f6dbea81f726236527506302d97319abf7"
+        },
+        {
+          "version": "0.3.38",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ad628ca14ed9e9d15ee4536eda469f0c0245e605"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.38.tgz",
+          "integrity_shasum": "6642bbf6d8856a3290f87b7f91fae3438662163b"
+        },
+        {
+          "version": "0.3.39",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "7970dbc2bd889b78d331d994c81eefaf3662428f"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.39.tgz",
+          "integrity_shasum": "46df3e1c8dc1d65261312bf8bfe93699c3cd39b0"
+        },
+        {
+          "version": "0.3.40",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "108d52b8bf3a33eb27a55dd1e3ae3e31dbb26d3d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.40.tgz",
+          "integrity_shasum": "deda08bcb04b42c366a2eda6847a7ba0c25a2f80"
+        },
+        {
+          "version": "0.3.41",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "937e4a788b2344e2707a8996db294cb4ec4607f7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.41.tgz",
+          "integrity_shasum": "51190b5355cbfc210ad99754f87bcc8e7d299380"
+        },
+        {
+          "version": "0.3.42",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "1e61a6cd1af23a7e211f8728f213732953bcb224"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.42.tgz",
+          "integrity_shasum": "fc1f45151f95e1f4292774725c9282e925702676"
+        },
+        {
+          "version": "0.3.43",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "9487b9772b7e33dca3f82358cc09a0e30a2fdbba"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.43.tgz",
+          "integrity_shasum": "26cde1ec55700d503f0565647db1cbfbd8cc5c6a"
+        },
+        {
+          "version": "0.3.44",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6ad1b7bc403fbc05a577bf5a867bea13e0af9772"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.44.tgz",
+          "integrity_shasum": "bb1412b82a530269cdc81e69213d416f7232f1ec"
+        },
+        {
+          "version": "0.3.45",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "253ec3269e6551595c4ba7b82a3c346a2353620d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.45.tgz",
+          "integrity_shasum": "1d529eba0b578f4153b74a12943d55b4dc6685c6"
+        },
+        {
+          "version": "0.3.46",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3f293864f46a862af62c4e7ff9c42daa41a5ad70"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.46.tgz",
+          "integrity_shasum": "2ae2ee7315bafeeaaeae2feb7427e5618a0ba835"
+        },
+        {
+          "version": "0.3.47",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "a1edfc156daba35a5509fa48fd4622eb1f9ca9b7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.47.tgz",
+          "integrity_shasum": "d8a30c22132ce5d15ecb335cbbf1d9d0bbf57a1e"
+        },
+        {
+          "version": "0.3.48",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "82566056d197113c95f710a85fffb16f6b41e8d7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.48.tgz",
+          "integrity_shasum": "44cdd8fce6a89a68db85d70d9a0d971ed0f6a70c"
+        },
+        {
+          "version": "0.3.49",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4a4132a7980c389f6fb6b8d2070b140e45ce9999"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.49.tgz",
+          "integrity_shasum": "d23c3dd1153d7c21dac36e64193dd76fcde78676"
+        },
+        {
+          "version": "0.3.50",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4d5ef7d613df2c8624245824dacc4602d9253add"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.50.tgz",
+          "integrity_shasum": "8d09dede7f465ec53f2fb6f238086a5583f9497e"
+        },
+        {
+          "version": "0.3.51",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b427bafe6b6cf822df38c1d78c565fd5e016ef09"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.51.tgz",
+          "integrity_shasum": "c4058a5277458e383aa1de7012d566da38a59299"
+        },
+        {
+          "version": "0.3.53",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d5f08758c576c042ce29e77eabbf0945913edc61"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.53.tgz",
+          "integrity_shasum": "0903f4ac14940ffb28d8d268870ac94770836b44"
+        },
+        {
+          "version": "0.3.54",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "bfe44e1a021c50ac6ed08bfaef30ef02f21df117"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.54.tgz",
+          "integrity_shasum": "f7200866aaf5cc6333c7e092bdb5965d6c0b8966"
+        },
+        {
+          "version": "0.3.55",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "a305d588b9a8dce1fac36565902eb78424293a02"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.55.tgz",
+          "integrity_shasum": "8bab1225fac194acb7c3ee3ed77c6efa8bcc66e2"
+        },
+        {
+          "version": "0.3.56",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "16e1fa54908ddbead4ac9024c425e6d5976b5f75"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.56.tgz",
+          "integrity_shasum": "3aac3d43e1514aa022974bf4e194ee20d0985027"
+        },
+        {
+          "version": "0.3.57",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "01ee3eeb7277f59ab77c64fd436dd6a224612a92"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.57.tgz",
+          "integrity_shasum": "6f40edf9a6c73c9e0e3e433502e25cfda69de921"
+        },
+        {
+          "version": "0.3.58",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "92b070e82a4148df805982c12ee661c207cb7a96"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.58.tgz",
+          "integrity_shasum": "5c3a29b402dbe925c30347a3031a254403959117"
+        },
+        {
+          "version": "0.3.59",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8af0c214387e5c2f9895579bd71704f6332d6a43"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.59.tgz",
+          "integrity_shasum": "4e052098a01ace17ae6e5431c09b93565f544d96"
+        },
+        {
+          "version": "0.3.60",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "022ea177aa66d62e10decc8d2b06484e2f5ed2e7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.60.tgz",
+          "integrity_shasum": "6620662a0732044f72e51b106feefe4c24475cdb"
+        },
+        {
+          "version": "0.3.61",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "c1412b52dcacb87807d7031ecc0a2bb06d53b690"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.61.tgz",
+          "integrity_shasum": "72f2adcacf3073925729e921551ddba56e156f0e"
+        },
+        {
+          "version": "0.3.62",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "bef803fcb8662d515c094063e4d00e2046092499"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.62.tgz",
+          "integrity_shasum": "f8528a285e777badb1d735b503caf21cace8116d"
+        },
+        {
+          "version": "0.3.63",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "48700987130c9bae9a26930e1e2096a9c4d37793"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.63.tgz",
+          "integrity_shasum": "6f670191696026a012423442be0ff4ab5086fe93"
+        },
+        {
+          "version": "0.3.64",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6fbbeb8cbd3d712a8d77cf5ab4849f544853db73"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.64.tgz",
+          "integrity_shasum": "d161506b23a395911213cdb0a3f75e81d2f9fcfd"
+        },
+        {
+          "version": "0.3.65",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b464167291d712b5ea1d852e62ee49bce0ecb34a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.65.tgz",
+          "integrity_shasum": "7ccf4fe9cfd5ec3df7d6790cb5b7d8a5aad72abf"
+        },
+        {
+          "version": "0.3.66",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "7eabfbdd294592b4a1c6c9cc3a51238a430f2234"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.66.tgz",
+          "integrity_shasum": "2529cce1e9c9953de83b7d060bee3a9f0e9e6b4b"
+        },
+        {
+          "version": "0.3.67",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4313e76d316e63efe8c6ee815df2128a490f76af"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.67.tgz",
+          "integrity_shasum": "085c30f7ef4d3ab5f12898667eaea6bd392f22ed"
+        },
+        {
+          "version": "0.3.68",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "c28de90f766fd14a0d86682140c924905d5623ed"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.68.tgz",
+          "integrity_shasum": "235d73ac1a3831fe71585ad85feffe14f8aaaca0"
+        },
+        {
+          "version": "0.3.69",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "542d8323e5381b13cc09d1fa15d14fb798a7d587"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.69.tgz",
+          "integrity_shasum": "f338a688f2b52ea2eec646c64b4d9e875753a208"
+        },
+        {
+          "version": "0.3.70",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e0be429132d098f9ce106be87414ffce18c87897"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.70.tgz",
+          "integrity_shasum": "3131c5a922485c424f4bebf35ec878e76e1d29db"
+        },
+        {
+          "version": "0.3.71",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "47e5872b23a22bbbf50f307a666f95e80924a516"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.71.tgz",
+          "integrity_shasum": "098bf53fca2df8ef42a5ca9d31ab0e3310fd7f27"
+        },
+        {
+          "version": "0.3.72",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6e08e702d016208e3764218521fb00cb763fe647"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.72.tgz",
+          "integrity_shasum": "f9efe6f4bc31605d0f11b159663a854bf43d6c44"
+        },
+        {
+          "version": "0.3.73",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6dcf5142b97d1404da3d7927b48aa462011d8fc6"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.73.tgz",
+          "integrity_shasum": "35feb1b9afacb99c4b12ea72a86838518bea2e42"
+        },
+        {
+          "version": "0.3.74",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "516202cdea0f55866b20cd1aec90ac71ac5791a2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.74.tgz",
+          "integrity_shasum": "ecee2e355737772c4a791e9007167b1b1594da8c"
+        },
+        {
+          "version": "0.3.75",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ddc5bdde1e4ed9defb0cb06cd61d12bb0e7ad2a6"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.75.tgz",
+          "integrity_shasum": "7e1a96d5410449d57bb31f0d0fbea49b6b43ea6b"
+        },
+        {
+          "version": "0.3.76",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "562836c03f6a2893af180ef4ce0291873c209e03"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.76.tgz",
+          "integrity_shasum": "52277c501b4296a2545ec2550584210a0e8c65f3"
+        },
+        {
+          "version": "0.3.78",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e1c339d8b66d0325d00de4c9855e67ead8bcf785"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.78.tgz",
+          "integrity_shasum": "5bf7ce49e03032f32ffcb7ae9e6b328cbc45d6db"
+        },
+        {
+          "version": "0.3.79",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d0f30606dc7c36adec2a7ef0952118e946ac6b95"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.79.tgz",
+          "integrity_shasum": "53f4e6f3e0102f286004b0dc574f89c05c7cb94c"
+        },
+        {
+          "version": "0.3.80",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "5b636b5d1d2f41931f7aa7316b277d3f653b6290"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.80.tgz",
+          "integrity_shasum": "2705700c3ca41199268ae1f6f1d97c64e13fa75c"
+        },
+        {
+          "version": "0.3.81",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "08ac457a1d5720a73c0fb0e580ee00e31634785e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.81.tgz",
+          "integrity_shasum": "f2caeee31e1eed3f243af3bf9e6157e7a99b28b2"
+        },
+        {
+          "version": "0.3.82",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e94cf8d3bdab030569db9983e2f1902124b234a2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.82.tgz",
+          "integrity_shasum": "2aaf5d7f5e03fecf353b091af94a9cdd61808f2b"
+        },
+        {
+          "version": "0.3.83",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "bdf80487073a0e58f091705aa459af7651aec4eb"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.83.tgz",
+          "integrity_shasum": "8f8d31eeef3c149831a7e4cdbe97fe2994d629a9"
+        },
+        {
+          "version": "0.3.84",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f536f4ca0b39d08c7ff99a1b0f90ceb7065ce218"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.84.tgz",
+          "integrity_shasum": "7c58bc55e45c819bdb49ce67993f03d288080397"
+        },
+        {
+          "version": "0.3.85",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ea1794947c7f5110793932a336049a7ca405d05d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.85.tgz",
+          "integrity_shasum": "4c6981c8f6a0694df6a55a344225103f64b0479b"
+        },
+        {
+          "version": "0.3.86",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b6e11b655b33d0528399172751cedd31e23a7fe0"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.86.tgz",
+          "integrity_shasum": "05c75daf39b0f97c264d4a66993acbe2c1ce1c83"
+        },
+        {
+          "version": "0.3.87",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4f50502570a519d2ad169fb4743a39528ac7f93c"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.87.tgz",
+          "integrity_shasum": "363938a645342f688492e2c8e6f31e0a2f966620"
+        },
+        {
+          "version": "0.3.88",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "eb1cd230937700921c1c82156328313f81665c65"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.88.tgz",
+          "integrity_shasum": "2c305730c51b5dc004fbf2851dea8ad8cdcb8696"
+        },
+        {
+          "version": "0.3.89",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "bf4f3f5de7882ad9441458700fd65df44aba2260"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.89.tgz",
+          "integrity_shasum": "943b72002e0f1d8a09a155916a836f7a6a10a451"
+        },
+        {
+          "version": "0.3.90",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "fc6341a251aa8d61e7431be44fcb340b12758676"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.90.tgz",
+          "integrity_shasum": "bebae56962be865a6dc6c75abd86e3d0a855d397"
+        },
+        {
+          "version": "0.3.91",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3a33f8ae894d4960137d1eb68e4ed9507f33d371"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.91.tgz",
+          "integrity_shasum": "3634f3d00da54dcbd37ed6b021d28f1971505418"
+        },
+        {
+          "version": "0.3.92",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "dff93c0da4e9b1c0882692c814c6680f12e049fb"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.92.tgz",
+          "integrity_shasum": "6c6d6d203d3cb6748ae6c18ccfc7aa65bcaf130c"
+        },
+        {
+          "version": "0.3.93",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "1cdf11ea2d6bcb17685240c864b076fcb89316ec"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.93.tgz",
+          "integrity_shasum": "8667ec5ac00ce31b080d1a4711885bc3372c3964"
+        },
+        {
+          "version": "0.3.94",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "82f8e0d80a4a89fc081930b987caff944cc9fcb4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.94.tgz",
+          "integrity_shasum": "b0523994693ca1c62eb3af8553f8fd4bb32268bc"
+        },
+        {
+          "version": "0.3.95",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "fc29063582d314de8747d55e4d3d917201e612ec"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.95.tgz",
+          "integrity_shasum": "55d4e6b99d81a3f50c5690e031e629823dc5bbc9"
+        },
+        {
+          "version": "0.3.96",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "039d3e9d7d4ca0225a79d093a989e3b42a6d6464"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.96.tgz",
+          "integrity_shasum": "d8ee340e1e90bda8a9bb0b329fd9b6700ba3171b"
+        },
+        {
+          "version": "0.3.97",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "956d82e11550c74edf117b89dd6c10e21fc06bbd"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.97.tgz",
+          "integrity_shasum": "66d30d529280c4d4a265253bec13396bd02df594"
+        },
+        {
+          "version": "0.3.98",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6d73db9134fc7780f75f37e09a5a6fd176e9c9f4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.98.tgz",
+          "integrity_shasum": "e9324e5e77a116d00b1ef18c91ed834a079c114b"
+        },
+        {
+          "version": "0.3.99",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "083b6c533cc6f42f9853268920686c3e5b97f167"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.99.tgz",
+          "integrity_shasum": "30337e9ac745c22f8e173eb65d6a3a6abc4b19ba"
+        },
+        {
+          "version": "0.3.100",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "45fe44c9ff589daa44ed2e3020c7c8d0d988e96d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.100.tgz",
+          "integrity_shasum": "0a53c393259167b6ae958604488d97af4e4568ef"
+        },
+        {
+          "version": "0.3.101",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "25a9356d0065b273a1315d2f0c287ac1884803ba"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.101.tgz",
+          "integrity_shasum": "c432f2b06e1606242cb1d6ccd8812d1e5fb1a3ae"
+        },
+        {
+          "version": "0.3.102",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ea35fa492132b0606501d7d13570f3840e6caa72"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.102.tgz",
+          "integrity_shasum": "0029ff59edbca6c5dc71d20ae40e7f4fd753a5b8"
+        },
+        {
+          "version": "0.3.103",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "0a4063d78a69db909273ce0c6db1c025a6a41b7b"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.103.tgz",
+          "integrity_shasum": "7d651f98436eae3698c107dcb4ee1d4f47cdbc45"
+        },
+        {
+          "version": "0.3.104",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d7148b333721b3363129cdbcbf98157280d31261"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.104.tgz",
+          "integrity_shasum": "f3167a4c40ba7e1e512cfd4244a9b6198aad225e"
+        },
+        {
+          "version": "0.3.105",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "dd0aa5b900abe39f68ef9cef45d4a84059a81038"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.105.tgz",
+          "integrity_shasum": "4bdc7887517f97745a9d2cd476e040ef2dfa2216"
+        },
+        {
+          "version": "0.3.106",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b7b85e5179a61d6ebb9628481ae6d14a9d447335"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.106.tgz",
+          "integrity_shasum": "d1ecc48be6e19f274349dc13772f7b9d95d600ad"
+        },
+        {
+          "version": "0.3.107",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "a43c251fa96069041b53e73f5be53733dae78db4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.107.tgz",
+          "integrity_shasum": "6ada3a6323e1afe13b37ed12f06df31f40713004"
+        },
+        {
+          "version": "0.3.108",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "9a7aaf3abb3fd005c6f692a2f57f183428e8ab8d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.108.tgz",
+          "integrity_shasum": "c450c079423d7cc1e94915b255f6dc1d7c173d38"
+        },
+        {
+          "version": "0.3.109",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "1a678c9125a9c9548e4feefde393c6b6d36e1268"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.109.tgz",
+          "integrity_shasum": "2f133e001403ebec92ab9fa0feab1511d25d6f89"
+        },
+        {
+          "version": "0.3.110",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "a20429abce72b574765d250dfa7fdc9c8c215562"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.110.tgz",
+          "integrity_shasum": "1a35857953fc3871095c38c24b6455ff17376139"
+        },
+        {
+          "version": "0.3.111",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ef993d98111d62e8a6b1403d08d4c28760fb4c54"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.111.tgz",
+          "integrity_shasum": "f586d5ab7f498e5e9212c1f21839f96d291efe2e"
+        },
+        {
+          "version": "0.3.112",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "fbe5341ff5d283a9a1061c1fe155e982927a3d16"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.112.tgz",
+          "integrity_shasum": "587be4dc79ad2bde1f48fe3637cfe37d218cfab2"
+        },
+        {
+          "version": "0.3.113",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "cc55f66c711c40276f704efee7005f8708208250"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.113.tgz",
+          "integrity_shasum": "0932ddb357a6f8a84eaf9743ed5e161e8b5c23b3"
+        },
+        {
+          "version": "0.3.114",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b8f0ce794d25efe1a729eb0b85f5715b9ee1f9b2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.114.tgz",
+          "integrity_shasum": "4198c160a12f2d09d21e71a4318e834b6b31d694"
+        },
+        {
+          "version": "0.3.115",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "9def109b2d35b052afb0fc59c2fbe16d011c659c"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.115.tgz",
+          "integrity_shasum": "b884cb45273cfa0f9ee1e5e75e0cd038e6db8875"
+        },
+        {
+          "version": "0.3.116",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "dc8027a9e5ce0e780ea3795aa569beef09694159"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.116.tgz",
+          "integrity_shasum": "d78c611e5e802ca197a4d4a4100adb3b9aeee909"
+        },
+        {
+          "version": "0.3.117",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8f9cab9842fed740e2941d3d8f7993be3c16513b"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.3.117.tgz",
+          "integrity_shasum": "24abd30bff5f00526e96e57e823faba65f65cefa"
+        },
+        {
+          "version": "0.4.1",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "d8b9154a88b2743edc8e8d51aa7d270982eebba4"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.1.tgz",
+          "integrity_shasum": "d13ac08b90f2b974a8996717bb2681fe8aacc984"
+        },
+        {
+          "version": "0.4.2",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "50bd66875514279989788ad50d45fc7bd1632b4d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.2.tgz",
+          "integrity_shasum": "4cee9e34cdea010b988446588b8e04c6a1b13d0c"
+        },
+        {
+          "version": "0.4.3",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "74ebe5ac28fee54ec82270baa619d440080f02d7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.3.tgz",
+          "integrity_shasum": "8d9e4117b6df85d4334aedbc6a0cb03423f14d63"
+        },
+        {
+          "version": "0.4.4",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8e23d2bf33a1a0958ed0744ec64396a80c23bb92"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.4.tgz",
+          "integrity_shasum": "0f6d06cb5feba28f71933d52c04770865d112f40"
+        },
+        {
+          "version": "0.4.5",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "926951f53cee0d154f7ac39ca452561fa766118d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.5.tgz",
+          "integrity_shasum": "da132238d02cd4295b68a2cad7a3fe96d1794385"
+        },
+        {
+          "version": "0.4.6",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6aa977c816b28c9b8849202153b4c8a48c33da96"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.6.tgz",
+          "integrity_shasum": "8d6adadec2ded14fb79a0cbf873dfc044349ce03"
+        },
+        {
+          "version": "0.4.7",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3676276df5f1062ebfdd510b78e25425310436cb"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.7.tgz",
+          "integrity_shasum": "0b396a6b94682a9f32f420a5216bbfd075f2e198"
+        },
+        {
+          "version": "0.4.8",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "c1b29278b33390ef118ac9081956c541a5cde05a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.8.tgz",
+          "integrity_shasum": "8ece33c3f7bd6feffbeacea42aade99256085063"
+        },
+        {
+          "version": "0.4.9",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "36479d5f9f1756eba10c98718ecde73b2028072f"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.9.tgz",
+          "integrity_shasum": "3b1f1c6a88976bcdf215468fcddd4b006f6c7fc6"
+        },
+        {
+          "version": "0.4.10",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "2dc08042c76b6dce3209d0a01098ae2dc1cac007"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.10.tgz",
+          "integrity_shasum": "fbc3c29316d5c47209aa599eff4b743c00a5e7a9"
+        },
+        {
+          "version": "0.4.11",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "0ade0af2b3d2fa287718be2fea5d20b012f6c63d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.11.tgz",
+          "integrity_shasum": "085713d31e4f4cd151c05da500adce6656b2e956"
+        },
+        {
+          "version": "0.4.12",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "1fdedb683635d319e96bcadbdea5b2383696007a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.12.tgz",
+          "integrity_shasum": "421632eaa237d05de90ba3a5896d0acb813debd3"
+        },
+        {
+          "version": "0.4.13",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "08f2a7d3e2b79a8efdbbcd6d790ecb0e72bb8aa9"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.13.tgz",
+          "integrity_shasum": "6e59bf85ef35b30d66e43d29bbacd9c3f3ad3b96"
+        },
+        {
+          "version": "0.4.14",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "92e879053b706d793279fab2090cb3efd29ee605"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.14.tgz",
+          "integrity_shasum": "a9b49b456f0bb656a86ec672de6802f51f68c160"
+        },
+        {
+          "version": "0.4.15",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "819dab76525d71cb2edb2aacbf43724f086ba90d"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.15.tgz",
+          "integrity_shasum": "d88e26003c7c9219bcde0e05e534a7977a6318a3"
+        },
+        {
+          "version": "0.4.16",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "28055a30fee134831b604780c87dfb90239080a9"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.16.tgz",
+          "integrity_shasum": "a4c40bf29e5f177052f2b1831a07260c2bb262df"
+        },
+        {
+          "version": "0.4.17",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e9d56561712d4d0e7269a5747958e409578c1e71"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.17.tgz",
+          "integrity_shasum": "4dc22e7108edabb41ca33b1923723247b89fa507"
+        },
+        {
+          "version": "0.4.18",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "e516fdacc34b400735ef04b52a984c42c466fd2e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.18.tgz",
+          "integrity_shasum": "b5e7f7c3d42ae83c99905cafc7ec40a70c8b7481"
+        },
+        {
+          "version": "0.4.19",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "67cd1887f984b6ff1a00aff5e552019284ba88f6"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.19.tgz",
+          "integrity_shasum": "114238bd5271bf60a08fa3e22c31ceef879fbe6e"
+        },
+        {
+          "version": "0.4.20",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "15c935d020f380172b7a0c42969d5e92e995cb42"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.20.tgz",
+          "integrity_shasum": "2bf6bd5a90908bc938eba1ac6da442668756f7e0"
+        },
+        {
+          "version": "0.4.21",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "4b7a311a47cbe85fb15bb19bfa119569657e00d2"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.21.tgz",
+          "integrity_shasum": "20b270a73ff5247f2fd29f08670c7a3178c94c13"
+        },
+        {
+          "version": "0.4.22",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "b518fc3ed9fc041c56df730d95a8a6b57e689468"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.22.tgz",
+          "integrity_shasum": "f286d4af1df8e16a8525f5ae57a1b0b22ff96e5b"
+        },
+        {
+          "version": "0.4.23",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "93500df6256dd135f43a27d7d0aebb7035aa963a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.23.tgz",
+          "integrity_shasum": "1c790a9dbe95da38aa057324e0de059d5503cacd"
+        },
+        {
+          "version": "0.4.24",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "43d4107aa82858e6dcef28861594fc66006be143"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.24.tgz",
+          "integrity_shasum": "7e7bc384ffa985a3192298ca628f06ba13d0e178"
+        },
+        {
+          "version": "0.4.25",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "19b04f6bdffb7c401327061c473abd08711f1289"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.25.tgz",
+          "integrity_shasum": "41afb52f56c29aa10d04e443ac6b45501ded2b0a"
+        },
+        {
+          "version": "0.4.26",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "963caa175aca017a40f78f549caea740ecd8dec7"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.26.tgz",
+          "integrity_shasum": "31b8b4dae6d15629e6404b64d8531d7ad8b87410"
+        },
+        {
+          "version": "0.4.27",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f2c73a9cc157e013dee3ddb511313be18f532eac"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.27.tgz",
+          "integrity_shasum": "4cc436220cd79192f2b7378a74bdfce37dbb00ae"
+        },
+        {
+          "version": "0.4.28",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "577b091dfa7526fdb6f1eecb3b174b7f1d8c465e"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.28.tgz",
+          "integrity_shasum": "49545f8ea1c7c16c4b87b4cbad1a7ce1fe31e642"
+        },
+        {
+          "version": "0.4.29",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "c9f65523a56bbddcd1da392f7caa1461ca40f3e1"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.29.tgz",
+          "integrity_shasum": "b411cfe44985ab4cffa968177644325476360790"
+        },
+        {
+          "version": "0.4.30",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3ca96e5aae84e512d3489010e34a886f6289ba1a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.30.tgz",
+          "integrity_shasum": "2bb1fbb79fb24da8382eb179b368afb877475b26"
+        },
+        {
+          "version": "0.4.31",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "698145cc2c16f1cebc582a82946e16d7cd382988"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.31.tgz",
+          "integrity_shasum": "ca23e1afbec6b7c2b4b1c447343310096c2de9bb"
+        },
+        {
+          "version": "0.4.32",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "60fc19d06ce02c2055953ee1e723483b6183203c"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.32.tgz",
+          "integrity_shasum": "d6222c0b6e505f6fbb06cea2462b6bafe31923e0"
+        },
+        {
+          "version": "0.4.33",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "ee2d090ed32d6a8236667a493799b5625201b002"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.33.tgz",
+          "integrity_shasum": "1797eb420b2a5e77eadd4411f3ea8d10916a508b"
+        },
+        {
+          "version": "0.4.34",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "c9051f3fb8a366ed6492e5c8ca90dd79c49b728a"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.34.tgz",
+          "integrity_shasum": "aa0bf8a0357eb18ea768dc47590324230c7dc05f"
+        },
+        {
+          "version": "0.4.35",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "3137fd17a80c930689e51669424bb3c6eae99014"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.35.tgz",
+          "integrity_shasum": "a578b3b5a6ef5ebb078e6cc23e497990682236fe"
+        },
+        {
+          "version": "0.4.36",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f6b24c4a36254e8feeeb8f596580c56723a37089"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.36.tgz",
+          "integrity_shasum": "b7667662edd36c5a319c0b7baf60f66d48ada7a7"
+        },
+        {
+          "version": "0.4.37",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "f4bb05d7477a3c2291374cc678ac8daed85d3664"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.37.tgz",
+          "integrity_shasum": "39decd09165f7585e301d82d37414e1f9f22ac08"
+        },
+        {
+          "version": "0.4.38",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "7fc76d3659daf5a73b2671e50374d3271a595662"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.38.tgz",
+          "integrity_shasum": "09fed9cda55cff079270687b9ad069c51aab3ffd"
+        },
+        {
+          "version": "0.4.39",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "8d61f05b6f7065793ec05dc6f56352c58d638eee"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.39.tgz",
+          "integrity_shasum": "f6d17d97358a865202bfaf74b3a0a99c551c6abe"
+        },
+        {
+          "version": "0.4.40",
+          "repository": {
+            "kind": [ "GitHub" ],
+            "name": "wMathConcepts",
+            "url": "git+https://github.com/Wandalen/wMathConcepts.git",
+            "ref": "6ffcbb7564853110edd10673c4ceda94734166d8"
+          },
+          "download_url":
+            "https://registry.npmjs.org/wmathconcepts/-/wmathconcepts-0.4.40.tgz",
+          "integrity_shasum": "0060ffbc33049063592dc8815355b1d9bb4eae93"
+        }
+      ],
+      "keywords": [
+        "wTools", "math", "vector", "dot product", "convolution"
       ],
       "target": [ "Unknown" ]
     },
